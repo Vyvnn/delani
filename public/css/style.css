@@ -1,0 +1,54 @@
+h1,h2,h6 {font-style: inherit;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: brown;
+    text-decoration-line: underline;
+    font-size: large;
+}
+
+body {background-image: url("../image/nature.jpg");
+      background-repeat: no-repeat;
+      background-size: 100% 100%;
+      display:flex;
+      flex-direction: row;
+      align-items:flex-start ;
+      background-position: fixed;
+      overflow: scroll;
+
+} 
+
+
+.Contact-me {color: brown;
+    font-weight: bold;
+    align-items: center;
+    border-style: hidden;
+    font-size: medium;
+
+}
+
+div {display: inline-block
+
+
+}
+
+#pic {
+   
+    position: sticky;
+    top: 0;
+    margin-right: 2%;
+    
+
+    }
+#mypic{
+        border-radius:50%
+    }
+#mybio{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+
+
